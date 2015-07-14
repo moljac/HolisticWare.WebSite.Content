@@ -1,0 +1,6 @@
+[submodule "markdown"]
+	path = markdown
+	url = https://github.com/moljac/HolisticWare.WebSite.CompositeC1.Content.MarkDown.git
+[submodule "xhtml"]
+	path = xhtml
+	url = https://github.com/moljac/HolisticWare.WebSite.CompositeC1.Content.XHTML.git
